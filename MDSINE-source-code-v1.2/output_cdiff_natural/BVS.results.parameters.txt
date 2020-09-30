@@ -1,0 +1,185 @@
+Comparison						
+						
+With C.diff Invasion				Without (only first 13 timepoints)		
+NA	Clostridium-hiranonis	0.0093351		NA	Clostridium-hiranonis	0.096
+NA	Proteus-mirabilis	0.034202		NA	Clostridium-scindens	0.18635
+NA	Clostridium-scindens	0.13759		NA	Ruminococcus-obeum	0.17413
+NA	Ruminococcus-obeum	0.17095		NA	Clostridium-ramosum	0.04889
+NA	Clostridium-ramosum	0.059957		NA	Bacteroides-ovatus	0.058763
+NA	Bacteroides-ovatus	0.020926		NA	Akkermansia-muciniphila	0.043412
+NA	Akkermansia-muciniphila	0.029588		NA	Parabacteroides-distasonis	0.016349
+NA	Parabacteroides-distasonis	0.018638		NA	Bacteroides-fragilis	0.1395
+NA	Bacteroides-fragilis	0.082489		NA	Bacteroides-vulgatus	0.35682
+NA	Bacteroides-vulgatus	0.021837		NA	Klebsiella-oxytoca	0.023745
+NA	Klebsiella-oxytoca	0.027327		NA	Roseburia-hominis	0.028941
+NA	Roseburia-hominis	0.036002		NA	Escherichia-coli	0.21214
+NA	Escherichia-coli	0.10889		Clostridium-hiranonis	Clostridium-hiranonis	-0.000535
+Clostridium-hiranonis	Clostridium-hiranonis	-0.00031684		Clostridium-hiranonis	Clostridium-scindens	-6.06E-09
+Clostridium-hiranonis	Proteus-mirabilis	-0.00021933		Clostridium-hiranonis	Ruminococcus-obeum	3.01E-06
+Clostridium-hiranonis	Clostridium-scindens	-1.73E-08		Clostridium-hiranonis	Clostridium-ramosum	2.05E-06
+Clostridium-hiranonis	Ruminococcus-obeum	4.12E-07		Clostridium-hiranonis	Bacteroides-ovatus	0.00029473
+Clostridium-hiranonis	Clostridium-ramosum	0.0001601		Clostridium-hiranonis	Akkermansia-muciniphila	1.13E-05
+Clostridium-hiranonis	Bacteroides-ovatus	0.00022503		Clostridium-hiranonis	Parabacteroides-distasonis	7.08E-07
+Clostridium-hiranonis	Akkermansia-muciniphila	2.16E-06		Clostridium-hiranonis	Bacteroides-fragilis	-5.91E-08
+Clostridium-hiranonis	Parabacteroides-distasonis	5.55E-06		Clostridium-hiranonis	Bacteroides-vulgatus	-0.00078062
+Clostridium-hiranonis	Bacteroides-fragilis	-4.30E-09		Clostridium-hiranonis	Klebsiella-oxytoca	-5.57E-08
+Clostridium-hiranonis	Bacteroides-vulgatus	-0.00041833		Clostridium-hiranonis	Roseburia-hominis	0.0018694
+Clostridium-hiranonis	Klebsiella-oxytoca	7.87E-05		Clostridium-hiranonis	Escherichia-coli	5.60E-08
+Clostridium-hiranonis	Roseburia-hominis	0.00077534		Clostridium-scindens	Clostridium-hiranonis	5.38E-05
+Clostridium-hiranonis	Escherichia-coli	2.26E-07		Clostridium-scindens	Clostridium-scindens	-0.0033758
+Proteus-mirabilis	Clostridium-hiranonis	-0.0015419		Clostridium-scindens	Ruminococcus-obeum	4.80E-05
+Proteus-mirabilis	Proteus-mirabilis	-7.66E-05		Clostridium-scindens	Clostridium-ramosum	-1.89E-05
+Proteus-mirabilis	Clostridium-scindens	-0.00015943		Clostridium-scindens	Bacteroides-ovatus	5.35E-05
+Proteus-mirabilis	Ruminococcus-obeum	1.48E-06		Clostridium-scindens	Akkermansia-muciniphila	-3.50E-08
+Proteus-mirabilis	Clostridium-ramosum	-5.70E-09		Clostridium-scindens	Parabacteroides-distasonis	-2.06E-06
+Proteus-mirabilis	Bacteroides-ovatus	-6.82E-07		Clostridium-scindens	Bacteroides-fragilis	-1.26E-07
+Proteus-mirabilis	Akkermansia-muciniphila	2.92E-08		Clostridium-scindens	Bacteroides-vulgatus	-0.00095538
+Proteus-mirabilis	Parabacteroides-distasonis	-1.35E-07		Clostridium-scindens	Klebsiella-oxytoca	-1.66E-05
+Proteus-mirabilis	Bacteroides-fragilis	2.15E-08		Clostridium-scindens	Roseburia-hominis	-1.46E-06
+Proteus-mirabilis	Bacteroides-vulgatus	-3.20E-07		Clostridium-scindens	Escherichia-coli	-0.0025221
+Proteus-mirabilis	Klebsiella-oxytoca	-3.17E-08		Ruminococcus-obeum	Clostridium-hiranonis	0.00013434
+Proteus-mirabilis	Roseburia-hominis	-2.76E-07		Ruminococcus-obeum	Clostridium-scindens	2.30E-05
+Proteus-mirabilis	Escherichia-coli	5.44E-08		Ruminococcus-obeum	Ruminococcus-obeum	-9.47E-05
+Clostridium-scindens	Clostridium-hiranonis	3.66E-07		Ruminococcus-obeum	Clostridium-ramosum	-7.37E-07
+Clostridium-scindens	Proteus-mirabilis	-5.62E-06		Ruminococcus-obeum	Bacteroides-ovatus	0
+Clostridium-scindens	Clostridium-scindens	-0.0016139		Ruminococcus-obeum	Akkermansia-muciniphila	8.88E-07
+Clostridium-scindens	Ruminococcus-obeum	-0.0075918		Ruminococcus-obeum	Parabacteroides-distasonis	-1.83E-07
+Clostridium-scindens	Clostridium-ramosum	-6.58E-06		Ruminococcus-obeum	Bacteroides-fragilis	-6.72E-10
+Clostridium-scindens	Bacteroides-ovatus	1.31E-06		Ruminococcus-obeum	Bacteroides-vulgatus	7.07E-08
+Clostridium-scindens	Akkermansia-muciniphila	-7.77E-05		Ruminococcus-obeum	Klebsiella-oxytoca	6.44E-06
+Clostridium-scindens	Parabacteroides-distasonis	-1.54E-05		Ruminococcus-obeum	Roseburia-hominis	-4.85E-09
+Clostridium-scindens	Bacteroides-fragilis	-4.49E-06		Ruminococcus-obeum	Escherichia-coli	0.00013459
+Clostridium-scindens	Bacteroides-vulgatus	-0.00024295		Clostridium-ramosum	Clostridium-hiranonis	-1.34E-06
+Clostridium-scindens	Klebsiella-oxytoca	3.51E-06		Clostridium-ramosum	Clostridium-scindens	3.54E-08
+Clostridium-scindens	Roseburia-hominis	-1.03E-06		Clostridium-ramosum	Ruminococcus-obeum	0
+Clostridium-scindens	Escherichia-coli	-2.27E-07		Clostridium-ramosum	Clostridium-ramosum	-2.14E-05
+Ruminococcus-obeum	Clostridium-hiranonis	-0.00018398		Clostridium-ramosum	Bacteroides-ovatus	0
+Ruminococcus-obeum	Proteus-mirabilis	3.22E-08		Clostridium-ramosum	Akkermansia-muciniphila	-2.43E-09
+Ruminococcus-obeum	Clostridium-scindens	4.88E-08		Clostridium-ramosum	Parabacteroides-distasonis	-2.16E-10
+Ruminococcus-obeum	Ruminococcus-obeum	-7.76E-06		Clostridium-ramosum	Bacteroides-fragilis	3.16E-10
+Ruminococcus-obeum	Clostridium-ramosum	-6.47E-08		Clostridium-ramosum	Bacteroides-vulgatus	1.09E-07
+Ruminococcus-obeum	Bacteroides-ovatus	-1.46E-08		Clostridium-ramosum	Klebsiella-oxytoca	8.83E-09
+Ruminococcus-obeum	Akkermansia-muciniphila	1.78E-11		Clostridium-ramosum	Roseburia-hominis	0
+Ruminococcus-obeum	Parabacteroides-distasonis	3.39E-10		Clostridium-ramosum	Escherichia-coli	8.25E-07
+Ruminococcus-obeum	Bacteroides-fragilis	-8.77E-06		Bacteroides-ovatus	Clostridium-hiranonis	-8.73E-06
+Ruminococcus-obeum	Bacteroides-vulgatus	-1.82E-09		Bacteroides-ovatus	Clostridium-scindens	2.11E-06
+Ruminococcus-obeum	Klebsiella-oxytoca	-5.15E-09		Bacteroides-ovatus	Ruminococcus-obeum	4.05E-10
+Ruminococcus-obeum	Roseburia-hominis	8.82E-09		Bacteroides-ovatus	Clostridium-ramosum	8.82E-11
+Ruminococcus-obeum	Escherichia-coli	-5.98E-06		Bacteroides-ovatus	Bacteroides-ovatus	-6.30E-06
+Clostridium-ramosum	Clostridium-hiranonis	-0.00013185		Bacteroides-ovatus	Akkermansia-muciniphila	0
+Clostridium-ramosum	Proteus-mirabilis	2.83E-08		Bacteroides-ovatus	Parabacteroides-distasonis	-5.41E-10
+Clostridium-ramosum	Clostridium-scindens	-7.30E-10		Bacteroides-ovatus	Bacteroides-fragilis	0
+Clostridium-ramosum	Ruminococcus-obeum	3.15E-07		Bacteroides-ovatus	Bacteroides-vulgatus	1.99E-09
+Clostridium-ramosum	Clostridium-ramosum	-4.11E-06		Bacteroides-ovatus	Klebsiella-oxytoca	-5.48E-05
+Clostridium-ramosum	Bacteroides-ovatus	1.27E-07		Bacteroides-ovatus	Roseburia-hominis	0
+Clostridium-ramosum	Akkermansia-muciniphila	-1.08E-09		Bacteroides-ovatus	Escherichia-coli	1.06E-08
+Clostridium-ramosum	Parabacteroides-distasonis	9.87E-09		Akkermansia-muciniphila	Clostridium-hiranonis	-6.78E-05
+Clostridium-ramosum	Bacteroides-fragilis	5.84E-10		Akkermansia-muciniphila	Clostridium-scindens	1.51E-05
+Clostridium-ramosum	Bacteroides-vulgatus	3.77E-09		Akkermansia-muciniphila	Ruminococcus-obeum	0
+Clostridium-ramosum	Klebsiella-oxytoca	-7.23E-09		Akkermansia-muciniphila	Clostridium-ramosum	-3.73E-11
+Clostridium-ramosum	Roseburia-hominis	5.31E-10		Akkermansia-muciniphila	Bacteroides-ovatus	0
+Clostridium-ramosum	Escherichia-coli	-5.12E-09		Akkermansia-muciniphila	Akkermansia-muciniphila	-9.77E-06
+Bacteroides-ovatus	Clostridium-hiranonis	-4.73E-09		Akkermansia-muciniphila	Parabacteroides-distasonis	0
+Bacteroides-ovatus	Proteus-mirabilis	0		Akkermansia-muciniphila	Bacteroides-fragilis	0
+Bacteroides-ovatus	Clostridium-scindens	8.02E-06		Akkermansia-muciniphila	Bacteroides-vulgatus	1.25E-10
+Bacteroides-ovatus	Ruminococcus-obeum	5.60E-05		Akkermansia-muciniphila	Klebsiella-oxytoca	0
+Bacteroides-ovatus	Clostridium-ramosum	0		Akkermansia-muciniphila	Roseburia-hominis	0
+Bacteroides-ovatus	Bacteroides-ovatus	-1.06E-06		Akkermansia-muciniphila	Escherichia-coli	1.57E-06
+Bacteroides-ovatus	Akkermansia-muciniphila	0		Parabacteroides-distasonis	Clostridium-hiranonis	0.00061019
+Bacteroides-ovatus	Parabacteroides-distasonis	0		Parabacteroides-distasonis	Clostridium-scindens	6.64E-09
+Bacteroides-ovatus	Bacteroides-fragilis	-9.13E-11		Parabacteroides-distasonis	Ruminococcus-obeum	-1.49E-09
+Bacteroides-ovatus	Bacteroides-vulgatus	8.94E-11		Parabacteroides-distasonis	Clostridium-ramosum	-1.29E-08
+Bacteroides-ovatus	Klebsiella-oxytoca	-2.37E-05		Parabacteroides-distasonis	Bacteroides-ovatus	-4.86E-11
+Bacteroides-ovatus	Roseburia-hominis	3.08E-11		Parabacteroides-distasonis	Akkermansia-muciniphila	7.11E-10
+Bacteroides-ovatus	Escherichia-coli	-6.61E-11		Parabacteroides-distasonis	Parabacteroides-distasonis	-6.16E-05
+Akkermansia-muciniphila	Clostridium-hiranonis	6.78E-10		Parabacteroides-distasonis	Bacteroides-fragilis	0
+Akkermansia-muciniphila	Proteus-mirabilis	0		Parabacteroides-distasonis	Bacteroides-vulgatus	1.97E-08
+Akkermansia-muciniphila	Clostridium-scindens	0		Parabacteroides-distasonis	Klebsiella-oxytoca	0.00024892
+Akkermansia-muciniphila	Ruminococcus-obeum	1.12E-09		Parabacteroides-distasonis	Roseburia-hominis	5.95E-09
+Akkermansia-muciniphila	Clostridium-ramosum	0		Parabacteroides-distasonis	Escherichia-coli	1.25E-06
+Akkermansia-muciniphila	Bacteroides-ovatus	-5.84E-11		Bacteroides-fragilis	Clostridium-hiranonis	5.40E-05
+Akkermansia-muciniphila	Akkermansia-muciniphila	-4.45E-06		Bacteroides-fragilis	Clostridium-scindens	1.47E-06
+Akkermansia-muciniphila	Parabacteroides-distasonis	-1.56E-10		Bacteroides-fragilis	Ruminococcus-obeum	0
+Akkermansia-muciniphila	Bacteroides-fragilis	8.31E-12		Bacteroides-fragilis	Clostridium-ramosum	-4.70E-09
+Akkermansia-muciniphila	Bacteroides-vulgatus	-5.62E-10		Bacteroides-fragilis	Bacteroides-ovatus	2.01E-10
+Akkermansia-muciniphila	Klebsiella-oxytoca	-1.24E-06		Bacteroides-fragilis	Akkermansia-muciniphila	0
+Akkermansia-muciniphila	Roseburia-hominis	-9.43E-12		Bacteroides-fragilis	Parabacteroides-distasonis	-2.55E-07
+Akkermansia-muciniphila	Escherichia-coli	0		Bacteroides-fragilis	Bacteroides-fragilis	-1.70E-05
+Parabacteroides-distasonis	Clostridium-hiranonis	0.00028992		Bacteroides-fragilis	Bacteroides-vulgatus	8.11E-10
+Parabacteroides-distasonis	Proteus-mirabilis	-1.31E-09		Bacteroides-fragilis	Klebsiella-oxytoca	2.73E-06
+Parabacteroides-distasonis	Clostridium-scindens	-4.78E-08		Bacteroides-fragilis	Roseburia-hominis	0
+Parabacteroides-distasonis	Ruminococcus-obeum	-8.23E-05		Bacteroides-fragilis	Escherichia-coli	2.20E-06
+Parabacteroides-distasonis	Clostridium-ramosum	-3.58E-07		Bacteroides-vulgatus	Clostridium-hiranonis	4.16E-05
+Parabacteroides-distasonis	Bacteroides-ovatus	-4.79E-07		Bacteroides-vulgatus	Clostridium-scindens	-3.11E-10
+Parabacteroides-distasonis	Akkermansia-muciniphila	-6.87E-09		Bacteroides-vulgatus	Ruminococcus-obeum	7.43E-09
+Parabacteroides-distasonis	Parabacteroides-distasonis	-1.79E-05		Bacteroides-vulgatus	Clostridium-ramosum	2.30E-05
+Parabacteroides-distasonis	Bacteroides-fragilis	-5.66E-09		Bacteroides-vulgatus	Bacteroides-ovatus	0
+Parabacteroides-distasonis	Bacteroides-vulgatus	-5.60E-07		Bacteroides-vulgatus	Akkermansia-muciniphila	1.98E-09
+Parabacteroides-distasonis	Klebsiella-oxytoca	5.54E-05		Bacteroides-vulgatus	Parabacteroides-distasonis	9.05E-10
+Parabacteroides-distasonis	Roseburia-hominis	-6.20E-09		Bacteroides-vulgatus	Bacteroides-fragilis	-8.70E-07
+Parabacteroides-distasonis	Escherichia-coli	-2.45E-09		Bacteroides-vulgatus	Bacteroides-vulgatus	-3.38E-05
+Bacteroides-fragilis	Clostridium-hiranonis	0.00010871		Bacteroides-vulgatus	Klebsiella-oxytoca	-9.28E-08
+Bacteroides-fragilis	Proteus-mirabilis	1.41E-09		Bacteroides-vulgatus	Roseburia-hominis	0
+Bacteroides-fragilis	Clostridium-scindens	-1.96E-10		Bacteroides-vulgatus	Escherichia-coli	-3.41E-09
+Bacteroides-fragilis	Ruminococcus-obeum	2.46E-07		Klebsiella-oxytoca	Clostridium-hiranonis	-6.00E-06
+Bacteroides-fragilis	Clostridium-ramosum	1.04E-09		Klebsiella-oxytoca	Clostridium-scindens	-5.54E-10
+Bacteroides-fragilis	Bacteroides-ovatus	-2.79E-10		Klebsiella-oxytoca	Ruminococcus-obeum	4.90E-06
+Bacteroides-fragilis	Akkermansia-muciniphila	1.04E-10		Klebsiella-oxytoca	Clostridium-ramosum	1.01E-08
+Bacteroides-fragilis	Parabacteroides-distasonis	2.67E-10		Klebsiella-oxytoca	Bacteroides-ovatus	2.92E-05
+Bacteroides-fragilis	Bacteroides-fragilis	-2.56E-06		Klebsiella-oxytoca	Akkermansia-muciniphila	0.00012701
+Bacteroides-fragilis	Bacteroides-vulgatus	9.43E-07		Klebsiella-oxytoca	Parabacteroides-distasonis	0.0001055
+Bacteroides-fragilis	Klebsiella-oxytoca	4.71E-06		Klebsiella-oxytoca	Bacteroides-fragilis	-3.57E-09
+Bacteroides-fragilis	Roseburia-hominis	2.57E-11		Klebsiella-oxytoca	Bacteroides-vulgatus	6.06E-10
+Bacteroides-fragilis	Escherichia-coli	0		Klebsiella-oxytoca	Klebsiella-oxytoca	-3.43E-05
+Bacteroides-vulgatus	Clostridium-hiranonis	2.41E-05		Klebsiella-oxytoca	Roseburia-hominis	-2.08E-09
+Bacteroides-vulgatus	Proteus-mirabilis	1.16E-06		Klebsiella-oxytoca	Escherichia-coli	-3.52E-11
+Bacteroides-vulgatus	Clostridium-scindens	8.56E-07		Roseburia-hominis	Clostridium-hiranonis	-1.05E-05
+Bacteroides-vulgatus	Ruminococcus-obeum	1.36E-05		Roseburia-hominis	Clostridium-scindens	2.14E-07
+Bacteroides-vulgatus	Clostridium-ramosum	1.15E-10		Roseburia-hominis	Ruminococcus-obeum	-2.10E-10
+Bacteroides-vulgatus	Bacteroides-ovatus	3.36E-07		Roseburia-hominis	Clostridium-ramosum	-3.78E-08
+Bacteroides-vulgatus	Akkermansia-muciniphila	1.37E-07		Roseburia-hominis	Bacteroides-ovatus	0
+Bacteroides-vulgatus	Parabacteroides-distasonis	3.52E-08		Roseburia-hominis	Akkermansia-muciniphila	-1.34E-09
+Bacteroides-vulgatus	Bacteroides-fragilis	-1.61E-07		Roseburia-hominis	Parabacteroides-distasonis	-1.64E-09
+Bacteroides-vulgatus	Bacteroides-vulgatus	-8.45E-06		Roseburia-hominis	Bacteroides-fragilis	-1.28E-10
+Bacteroides-vulgatus	Klebsiella-oxytoca	0		Roseburia-hominis	Bacteroides-vulgatus	1.15E-08
+Bacteroides-vulgatus	Roseburia-hominis	1.77E-07		Roseburia-hominis	Klebsiella-oxytoca	6.35E-07
+Bacteroides-vulgatus	Escherichia-coli	-1.35E-05		Roseburia-hominis	Roseburia-hominis	-9.20E-05
+Klebsiella-oxytoca	Clostridium-hiranonis	3.37E-05		Roseburia-hominis	Escherichia-coli	2.74E-07
+Klebsiella-oxytoca	Proteus-mirabilis	2.75E-08		Escherichia-coli	Clostridium-hiranonis	-7.17E-05
+Klebsiella-oxytoca	Clostridium-scindens	5.70E-06		Escherichia-coli	Clostridium-scindens	7.29E-09
+Klebsiella-oxytoca	Ruminococcus-obeum	6.95E-05		Escherichia-coli	Ruminococcus-obeum	2.33E-09
+Klebsiella-oxytoca	Clostridium-ramosum	1.38E-08		Escherichia-coli	Clostridium-ramosum	4.58E-09
+Klebsiella-oxytoca	Bacteroides-ovatus	2.17E-06		Escherichia-coli	Bacteroides-ovatus	0
+Klebsiella-oxytoca	Akkermansia-muciniphila	6.81E-05		Escherichia-coli	Akkermansia-muciniphila	1.48E-09
+Klebsiella-oxytoca	Parabacteroides-distasonis	2.22E-05		Escherichia-coli	Parabacteroides-distasonis	-8.22E-10
+Klebsiella-oxytoca	Bacteroides-fragilis	-1.87E-10		Escherichia-coli	Bacteroides-fragilis	-8.06E-10
+Klebsiella-oxytoca	Bacteroides-vulgatus	1.03E-07		Escherichia-coli	Bacteroides-vulgatus	7.35E-08
+Klebsiella-oxytoca	Klebsiella-oxytoca	-2.63E-05		Escherichia-coli	Klebsiella-oxytoca	0.00017043
+Klebsiella-oxytoca	Roseburia-hominis	2.46E-08		Escherichia-coli	Roseburia-hominis	-1.48E-09
+Klebsiella-oxytoca	Escherichia-coli	3.76E-08		Escherichia-coli	Escherichia-coli	-9.10E-06
+Roseburia-hominis	Clostridium-hiranonis	2.23E-08				
+Roseburia-hominis	Proteus-mirabilis	1.07E-07				
+Roseburia-hominis	Clostridium-scindens	-3.74E-09				
+Roseburia-hominis	Ruminococcus-obeum	-8.80E-08				
+Roseburia-hominis	Clostridium-ramosum	-4.21E-06				
+Roseburia-hominis	Bacteroides-ovatus	-1.01E-07				
+Roseburia-hominis	Akkermansia-muciniphila	-3.64E-09				
+Roseburia-hominis	Parabacteroides-distasonis	-1.15E-08				
+Roseburia-hominis	Bacteroides-fragilis	-1.51E-07				
+Roseburia-hominis	Bacteroides-vulgatus	-2.27E-06				
+Roseburia-hominis	Klebsiella-oxytoca	1.38E-05				
+Roseburia-hominis	Roseburia-hominis	-3.96E-05				
+Roseburia-hominis	Escherichia-coli	-2.08E-08				
+Escherichia-coli	Clostridium-hiranonis	-0.00020584				
+Escherichia-coli	Proteus-mirabilis	-1.76E-06				
+Escherichia-coli	Clostridium-scindens	2.28E-09				
+Escherichia-coli	Ruminococcus-obeum	-2.28E-08				
+Escherichia-coli	Clostridium-ramosum	1.86E-08				
+Escherichia-coli	Bacteroides-ovatus	-9.90E-09				
+Escherichia-coli	Akkermansia-muciniphila	-2.74E-08				
+Escherichia-coli	Parabacteroides-distasonis	-2.64E-07				
+Escherichia-coli	Bacteroides-fragilis	0				
+Escherichia-coli	Bacteroides-vulgatus	2.71E-05				
+Escherichia-coli	Klebsiella-oxytoca	0.00011199				
+Escherichia-coli	Roseburia-hominis	-1.72E-08				
+Escherichia-coli	Escherichia-coli	-2.56E-06				

@@ -1,0 +1,2 @@
+ProfileID	PerturbationID	N_species	frequency	Clostridium-hiranonis	Clostridium-difficile	Proteus-mirabilis	Clostridium-scindens	Ruminococcus-obeum	Clostridium-ramosum	Bacteroides-ovatus	Akkermansia-muciniphila	Parabacteroides-distasonis	Bacteroides-fragilis	Bifidobacterium-longum	Bacteroides-vulgatus	Enterococcus-faecalis	Prevotella-melaninogenica	Klebsiella-oxytoca	Lactobacillus-fermentum	Lactobacillus-reuteri	Roseburia-hominis	Staphylococcus-epidermidis	Propionibacterium-acnes	Escherichia-coli	Streptococcus-mitis
+1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	52801.3
